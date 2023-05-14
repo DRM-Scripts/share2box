@@ -1,3 +1,6 @@
+## U18.04 & DE LOCATION ##
+
+
 1.
 # Install Depedencies
 sudo apt update
